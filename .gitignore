@@ -44,3 +44,5 @@ bin/
 /.idea/misc.xml
 /.idea/encodings.xml
 /.idea/vcs.xml
+
+/src/main/java/org/example/streams/*/Answers.java
