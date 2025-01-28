@@ -1,9 +1,9 @@
-package org.example.streams.provider;
+package org.example.streams.task2.provider;
 
-import org.example.streams.domain.Author;
-import org.example.streams.domain.Book;
-import org.example.streams.domain.Genre;
-import org.example.streams.domain.Material;
+import org.example.streams.task2.domain.Author;
+import org.example.streams.task2.domain.Book;
+import org.example.streams.task2.domain.Genre;
+import org.example.streams.task2.domain.Material;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
